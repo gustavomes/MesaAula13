@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+body {
+    background-image: url(https://alfred.alboompro.com/resize/width/2400/url/storage.alboom.ninja/sites/1782/albuns/471996/casamento-aurora-paul-casal-clube-caiaras-rj-gustavo-medeiros-fotografia-niteri-19.jpg?t=1562692965);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    
+
+}
+
+#logo {
+    height: 500px;
+    width: 530px;
+    border-radius: 50%;
+    opacity: 80%;
+}
+
+label {
+    display: block;
+    color: white;
+}
+
+#servicos {
+    display:
+    text-align: center;
+}
